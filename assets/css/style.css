@@ -1,0 +1,58 @@
+
+/* Estilos Cuppon*/
+body {
+     font-family: 'Roboto',
+          sans-serif;
+     color: #212529;
+     margin-top: 80px;
+    font-weight: 300;
+}
+
+nav {
+     font-weight: 300;
+     font-size: 15px;
+}
+
+.bg-verde, #formulario {
+     background-color: #28A745;
+}
+
+h5{
+     color: #212529;
+     font-size: 20px;
+}
+
+h6 {
+     color: #707070;
+     font-size: 16px;
+}
+
+p {
+     color: #707070;
+     font-size: 13px;
+}
+h6 span{
+     color: #28A745;
+     font-weight: 500;
+     font-size: 25px;
+}
+
+
+.form-group h5{
+     font-weight: 500;
+     font-size: 21px;
+
+}
+#formulario .btn {
+     background-color: #F8F9FA;
+     color: #212529;
+     border: 0;
+}
+
+
+.logo-black {
+     width:86px;
+     height:24px;
+     color: #707070;
+     font-size: 16px;
+}
